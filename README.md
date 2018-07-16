@@ -4,7 +4,7 @@
 
 ## 简单图片示意
 
-将会在 NGA Fate/Grand Order 板块说明．
+可以参考 [NGA Fate/Grand Order 板块贴](https://bbs.ngacn.cc/read.php?tid=14517730&_ff=540) 的说明．
 
 ## 使用说明
 
